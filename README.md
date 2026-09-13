@@ -9,7 +9,7 @@ The system combines **Retrieval-Augmented Generation (RAG)** with an **agentic m
 ### Team Members
 
 - **Amit Shraga**
-- **Michal Perry**
+- **Michal Peri Markovich**
 - **Yuval Shaanan**
 
 ---
